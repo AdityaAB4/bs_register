@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: bs-register
+  annotations:
+    github.com/project-slug: AdityaAB4/bs-register
+spec:
+  type: service
+  lifecycle: experimental
+  owner: adityaab4
